@@ -1,1 +1,1 @@
-import scikitlearn
+from scikitlearn import DecisionTreeClassifier
