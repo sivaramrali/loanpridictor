@@ -1,4 +1,3 @@
-%%writefile ld.py
 import streamlit as st
 import joblib
 st.title('Loan Approval')
